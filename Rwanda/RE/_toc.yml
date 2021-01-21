@@ -1,0 +1,7 @@
+# Table of content
+# Learn more at https://jupyterbook.org/customize/toc.html
+#
+- file: Rwanda_MTF_Electricity.ipynb
+- file: content
+  sections:
+    - file: notebooks
